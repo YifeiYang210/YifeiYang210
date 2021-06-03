@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- [![](https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg)]({linkUrl}) -->
 
 ![](https://img.shields.io/badge/-Python-3f7fbd?logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-AI-3f7fbd?style=flat-square&logo=AI&logoColor=fff)
-![](https://img.shields.io/badge/-Wechat-3f7fbd?style=flat-square&logo=Wechat&logoColor=fff)
-![](https://img.shields.io/badge/-C%2B%2B-3f7fbd?style=flat-square&logo=C%2B%2B&logoColor=fff)
-![](https://img.shields.io/badge/-JavaScript-3f7fbd?style=flat-square&logo=JavaScript&logoColor=fff)
+![](https://img.shields.io/badge/-DeepLearning-3f7fbd?logo=AI&logoColor=fff)
+![](https://img.shields.io/badge/-Wechat-3f7fbd?logo=Wechat&logoColor=fff)
+![](https://img.shields.io/badge/-C%2B%2B-3f7fbd?logo=C%2B%2B&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-3f7fbd?logo=JavaScript&logoColor=fff)
