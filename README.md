@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 🌟 **My Skills**
 <!-- [![](https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg)]({linkUrl}) -->
 
-![](https://img.shields.io/badge/-Python-72c249?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-AI-#72c249?style=flat-square&logo=AI&logoColor=fff)
-![](https://img.shields.io/badge/-Wechat-72c249?style=flat-square&logo=Wechat&logoColor=fff)
-![](https://img.shields.io/badge/-C%2B%2B-72c249?style=flat-square&logo=C%2B%2B&logoColor=fff)
-![](https://img.shields.io/badge/-JavaScript-72c249?style=flat-square&logo=JavaScript&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3f7fbd?logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-AI-3f7fbd?style=flat-square&logo=AI&logoColor=fff)
+![](https://img.shields.io/badge/-Wechat-3f7fbd?style=flat-square&logo=Wechat&logoColor=fff)
+![](https://img.shields.io/badge/-C%2B%2B-3f7fbd?style=flat-square&logo=C%2B%2B&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-3f7fbd?style=flat-square&logo=JavaScript&logoColor=fff)
