@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning JavaScript
 
-- 💬 Ask me about Switch/Transfer Major
+- 💬 Ask me about Tensorflow.js
 
 🌟 **My Skills**
 <!-- [![](https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg)]({linkUrl}) -->
