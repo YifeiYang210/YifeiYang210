@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Switch/Transfer Major
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YifeiYang210&theme=maroongold)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YifeiYang210&hide=roff,c)
-
 🌟 **My Skills**
 <!-- [![](https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg)]({linkUrl}) -->
 
@@ -31,3 +27,20 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Wechat-3f7fbd?logo=Wechat&logoColor=fff)
 ![](https://img.shields.io/badge/-C%2B%2B-3f7fbd?logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-3f7fbd?logo=JavaScript&logoColor=fff)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YifeiYang210&theme=maroongold)
+
+
+
+#### Links 📫
+
+* [My Homepage](https://YifeiYang210.github.io/blog/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YifeiYang210&hide=roff,c)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/YifeiYang210/count.svg" />
+</p>
+
+
