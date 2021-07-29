@@ -38,15 +38,19 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YifeiYang210&hide=roff,c)
 
+📊 **This Week I Spent My Time On** 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=YifeiYang210&theme=dracula&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/YifeiYang210/count.svg" />
 </p>
-
-
-
 
 
 
