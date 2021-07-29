@@ -19,6 +19,7 @@ on:
     branches: [ master ]
   schedule:
     - cron: '0 0 * * *'
+  workflow_dispatch:
 
 # # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 # jobs:
@@ -47,7 +48,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@v3
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
