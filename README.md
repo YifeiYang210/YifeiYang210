@@ -38,7 +38,12 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YifeiYang210&hide=roff,c)
 
-📊 **This Week I Spent My Time On** 
+[![trophy](https://github-profile-trophy.vercel.app/?username=YifeiYang210&theme=dracula&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/YifeiYang210/count.svg" />
+</p>
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -77,16 +82,5 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 
  Last Updated on 29/07/2021
 <!--END_SECTION:waka-->
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YifeiYang210&theme=dracula&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/YifeiYang210/count.svg" />
-</p>
-
-
 
 
