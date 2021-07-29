@@ -38,9 +38,16 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YifeiYang210&hide=roff,c)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=wuyudi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/YifeiYang210/count.svg" />
 </p>
+
+
+
+
+
 
 
