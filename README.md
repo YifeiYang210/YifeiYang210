@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-833%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-833%20hrs%2015%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
