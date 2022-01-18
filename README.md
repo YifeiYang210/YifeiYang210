@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2032%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
