@@ -46,19 +46,21 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-997%20hrs%2025%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 14 mins       █████████████████████████   100.0%
+Other                    10 hrs 19 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  7 hrs 14 mins       █████████████████████████   100.0%
+Browser                  10 hrs 19 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-dedr.py                  7 hrs 14 mins       █████████████████████████   100.0%
+dedr.py                  10 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
@@ -74,7 +76,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2022 16:00:39 UTC
+ Last Updated on 11/02/2022 16:02:09 UTC
 <!--END_SECTION:waka-->
 
 
