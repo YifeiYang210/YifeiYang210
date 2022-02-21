@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C010%20hrs%2021%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -82,7 +84,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2022 16:00:49 UTC
+ Last Updated on 21/02/2022 16:02:15 UTC
 <!--END_SECTION:waka-->
 
 
