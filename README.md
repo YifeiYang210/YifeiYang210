@@ -46,24 +46,21 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C071%20hrs%2054%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    45 mins             █████████████████████░░░░   86.87% 
-Vue.js                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Browser                  45 mins             █████████████████████░░░░   86.87% 
-VS Code                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.13%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hello-vue3               45 mins             █████████████████████░░░░   86.87% 
-mirror-h5                6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.13%
+No Activity Tracked This Week
 
 ```
 
@@ -79,7 +76,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2022 16:00:51 UTC
+ Last Updated on 05/04/2022 16:02:32 UTC
 <!--END_SECTION:waka-->
 
 
