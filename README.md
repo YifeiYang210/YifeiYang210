@@ -46,23 +46,19 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C084%20hrs%2025%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 16 mins        ████████████████░░░░░░░░░   65.9% 
-Batchfile                39 mins             ████████░░░░░░░░░░░░░░░░░   33.79% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SleepEdfx_0513_V0.31     1 hr 55 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -79,7 +75,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2022 09:57:15 UTC
+ Last Updated on 04/05/2022 00:37:36 UTC
 <!--END_SECTION:waka-->
 
 
