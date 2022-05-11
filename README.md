@@ -54,13 +54,14 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 13 mins        ██████████████████████░░░   89.34% 
+Batchfile                8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.66%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 22 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SleepEdfx_0513_V0.31     1 hr 22 mins        █████████████████████████   100.0%
 
 ```
 
@@ -77,7 +78,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2022 16:00:44 UTC
+ Last Updated on 11/05/2022 16:02:32 UTC
 <!--END_SECTION:waka-->
 
 
