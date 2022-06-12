@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%2034%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
@@ -64,7 +64,7 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Python** 
+**💻 I mostly code in Python** 
 
 ```text
 Python                   4 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
@@ -77,7 +77,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 07:36:19 UTC
+ Last Updated on 12/06/2022 07:37:49 UTC
 <!--END_SECTION:waka-->
 
 
