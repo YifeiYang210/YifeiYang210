@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs%208%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -82,7 +82,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2022 08:53:17 UTC
+ Last Updated on 28/07/2022 08:54:55 UTC
 <!--END_SECTION:waka-->
 
 
