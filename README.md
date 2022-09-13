@@ -54,13 +54,13 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-exosuit_motor            10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -77,7 +77,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2022 11:41:29 UTC
+ Last Updated on 13/09/2022 00:46:31 UTC
 <!--END_SECTION:waka-->
 
 
